@@ -38,6 +38,7 @@ Nocode enables programmers and non-programmers to create application software th
 
 ## AI Platforms
 
+- [Agentivity](https://www.agentivity.io/) - Build teams of AI agents and workflows without code, with a person approving where you choose.
 - [Arize](https://arize.com/) - AI engineering platform to develop, monitor, troubleshoot, and improve machine learning models.
 - [Botpress](https://botpress.com/) - An all-in-one platform for building AI agents powered by the latest LLMs.
 - [Dify](https://dify.ai/) - AI platform for agentic workflows, RAG pipelines, integrations, and observability.
